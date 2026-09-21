@@ -531,7 +531,7 @@ Before publishing, confirm whether "Second-Class Honours" is the correct classif
 institution: Singapore Institute of Management, University of London
 degree: Bachelor of Science in Management & Digital Innovation
 start_date: September 2021
-end_date: August 2025
+end_date: August 2024
 achievement: Academic distinction in Year 2
 ```
 
@@ -550,7 +550,7 @@ Achieved academic distinction in Year 2.
 ```yaml
 award: Community Innovation Finalist
 organisation: Rivervale Community Hub
-year: 2024
+year: 2023
 result: Top 5 proposals
 ```
 
